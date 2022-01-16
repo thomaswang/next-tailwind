@@ -17,4 +17,3 @@ Preview the example live on [StackBlitz](http://stackblitz.com/):
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/thomaswang/next-tailwind&project-name=next-tailwind&repository-name=next-tailwind)
-`
