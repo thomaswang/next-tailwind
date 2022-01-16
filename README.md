@@ -4,7 +4,7 @@ This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](
 
 ## Motivation
 
-The Next.js team is in the process of converting their examples to Typescript, which I am against. [See discussion](https://github.com/vercel/next.js/discussions/33278) for more information.
+The Next.js team is in the process of converting their examples to Typescript, which I am against. [See discussion](https://github.com/vercel/next.js/discussions/33278).
 
 ## Preview
 
